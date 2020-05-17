@@ -1,0 +1,18 @@
+.comment-box {
+  position: relative;
+  background: 0 0;
+  margin: .5em 0 0;
+  padding: .5em 0 0;
+  border: none;
+  border-top: none;
+  line-height: 1.2;
+  display: -webkit-box;
+}
+
+.comment-avatar {
+  float: none !important;
+}
+
+.comment-text {
+  margin: auto;
+}
